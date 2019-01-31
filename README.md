@@ -1,2 +1,2 @@
 # DSCI-project
-Authours: Towela, Amjadh, Chris
+Authors: Towela, Amjadh, Chris
